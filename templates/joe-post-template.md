@@ -1,6 +1,8 @@
 ---
 title: <% tp.file.title %>
 draft: true
-tags:
+tags: 
+date: 
+description:
 ---
  

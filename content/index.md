@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: index
+draft: false
+tags: 
+date: 
+description:
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+ 
+Welcome to Joe's Homepage
