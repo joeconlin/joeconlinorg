@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "google", tagId: 'G-WJGXQ3BWRX'
+      provider: "google", tagId: 'G-WJGXQ3BWRX',
     },
     locale: "en-US",
     baseUrl: "joeconlin.org",
