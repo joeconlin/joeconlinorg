@@ -1,5 +1,5 @@
 ---
-title: index
+title: home
 draft: false
 tags: 
 date: 
