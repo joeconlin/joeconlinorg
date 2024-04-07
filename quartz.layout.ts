@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { mapFn, filterFn, sortFn } from "./functions.ts"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -26,18 +27,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-    mapFn: (node) => {
-        // dont change name of root node
-        if (node.depth > 0) {
-          // set emoji for file/folder
-          if (node.file) {
-            node.displayName = "📄 " + node.displayName
-          } else {
-            node.displayName = "📁 " + node.displayName
-          }
-        }
-      },  
-  })),
+      mapFn: mapFn,
+      filterFn: filterFn,
+      sortFn: sortFn,
+    })),
   ],
   right: [
     Component.Graph(),
