@@ -6,5 +6,9 @@ date:
 description:
 ---
  Welcome 
+
+[[Eurorack]]
+
+
  
 ![[abe-bestday.png]]
