@@ -1,5 +1,5 @@
 ---
-title: home
+title: 🏠 Home
 draft: false
 tags: 
 date: 
