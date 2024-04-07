@@ -5,4 +5,4 @@ tags:
 date: 
 description:
 ---
- 
+[[abe-bestday.png]] 
