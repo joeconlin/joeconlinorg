@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { mapFn, filterFn, sortFn } from "./functions.ts"
+// import { mapFn, filterFn, sortFn } from "./functions.ts"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -26,11 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      mapFn: mapFn,
-      filterFn: filterFn,
-      sortFn: sortFn,
-    })),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph(),
