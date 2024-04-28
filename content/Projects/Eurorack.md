@@ -6,6 +6,6 @@ date:
 description:
 ---
  
-My Modulargrid https://www.modulargrid.net/e/racks/view/1592251
+[My Modulargrid](https://www.modulargrid.net/e/racks/view/1592251)
 
-![[abe-bestday.png]]
+![[abe-bestday.png|250]]
