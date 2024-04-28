@@ -6,5 +6,7 @@ tags:
 date: 2024-04-07
 description:
 ---
-### test
-[[abe-bestday.png]] 
+## Very important news
+
+Abe LinkedIn
+![[abe-bestday.png|250]]

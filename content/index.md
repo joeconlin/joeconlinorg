@@ -1,15 +1,23 @@
 ---
-title: 🏠 Home
+title: 📍Joe's Digital Garden
 draft: false
-tags: 
+tags:
+  - evergreen
 date: 
-description: This is the DESCRIPTION
+description: Landing page and map of content
 ---
-## Welcome 
+## Hi 
 
 This is a link [[Eurorack]]
 
-### Level 3 Headline
+## Map of Content
 
- This is a picture
-![[abe-bestday.png]]
+Tags: #evergreen #seedling #post 
+
+
+### 🔉Play
+- [[Eurorack]] for my notes and resources on Eurorack
+
+### 🧑‍💻Work
+- 😴
+
