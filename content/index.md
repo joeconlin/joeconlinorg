@@ -1,5 +1,5 @@
 ---
-title: 🪴 Joe's Digital Garden
+title: 🪴 Digital Garden Index
 draft: false
 tags:
   - 🌲evergreen
@@ -7,6 +7,10 @@ date:
 description: Landing page and map of content
 AutoNoteMover: disable
 ---
+## Welcome to Joe's Digital Garden
+
+This site is a living repository for my public notes and resources. Enjoy!
+
 ## Map of Content
 
 ### 🤹‍♀️ Play

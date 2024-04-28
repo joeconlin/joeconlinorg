@@ -8,7 +8,7 @@ description:
 AutoNoteMover:
 ---
  
-## Hardware
+## 🔧 Hardware
 
 ### Home Studio
 - Audio Interface
@@ -16,7 +16,7 @@ AutoNoteMover:
 
 ### Electronics
 - Soldering
-
-
-## Software
+- 
+## 💾Software
+- Obsidian
 - 
