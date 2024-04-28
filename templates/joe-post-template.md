@@ -1,9 +1,9 @@
 ---
 title: <% tp.file.title %>
-draft: true
-tags:
-  - 🪵log
+draft: false
+tags: 
 date: 2024-04-28
-description:
+description: 
+AutoNoteMover:
 ---
  

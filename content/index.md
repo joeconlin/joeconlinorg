@@ -5,20 +5,22 @@ tags:
   - 🌲evergreen
 date: 
 description: Landing page and map of content
+AutoNoteMover: disable
 ---
 ## Map of Content
 
-### 🏷️ Tags 
-#🌲evergreen #🌱seedling #🪵log
-
-### 🎹 Play
-- [[Things I Use]]
+### 🤹‍♀️ Play
+- [[Tools I Use]]
 - [[Synthesizers]]
 - [[Eurorack]] 
 - [[Balsa Model Planes]]
 - [[Travel]]
+- [[Food]]
 
 ### 🧑‍💻Work
-- Check out my [[PROfile]] 
+- My [[PROfile]] 
+- [[Presentation Tips]]
 - [[FinOps]] tips tricks and resources
 
+### 🏷️ Tags
+#🌲evergreen #🌱seedling #🪵log
