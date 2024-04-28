@@ -2,7 +2,7 @@
 title: Hello World
 draft: false
 tags:
-  - post
+  - 🪵log
 date: 2024-04-07
 description:
 ---

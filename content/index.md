@@ -1,23 +1,26 @@
 ---
-title: 📍Joe's Digital Garden
+title: 🪴 Joe's Digital Garden
 draft: false
 tags:
-  - evergreen
+  - 🌲evergreen
 date: 
 description: Landing page and map of content
 ---
-## Hi 
-
-This is a link [[Eurorack]]
-
 ## Map of Content
 
-Tags: #evergreen #seedling #post 
+### 🏷️ Tags: 
+#🌲evergreen 
+#🌱seedling 
+#🪵log
 
-
-### 🔉Play
-- [[Eurorack]] for my notes and resources on Eurorack
+### 🎹 Play
+- [[Things I Use]]
+- [[Synthesizers]]
+- [[Eurorack]] 
+- [[Balsa Model Planes]]
+- [[Travel]]
 
 ### 🧑‍💻Work
-- 😴
+- Check out my [[PROfile]] 
+- [[FinOps]] tips tricks and resources
 

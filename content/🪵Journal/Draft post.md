@@ -2,7 +2,7 @@
 title: Draft post
 draft: true
 tags:
-  - post
+  - 🪵log
 date: 
 description:
 ---
