@@ -8,10 +8,8 @@ description: Landing page and map of content
 ---
 ## Map of Content
 
-### 🏷️ Tags: 
-#🌲evergreen 
-#🌱seedling 
-#🪵log
+### 🏷️ Tags 
+#🌲evergreen #🌱seedling #🪵log
 
 ### 🎹 Play
 - [[Things I Use]]
